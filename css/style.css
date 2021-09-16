@@ -4,3 +4,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* header */
+header {
+    /* debug rules */
+    height: 70px;
+    background-color: rgb(228, 97, 233);
+}
+
+/* main part */
+/* first block */
+#first_block {
+    margin: 20px 0;
+    /* debug rules */
+    height: 320px;
+    background-color: rgb(236, 247, 144);
+}
