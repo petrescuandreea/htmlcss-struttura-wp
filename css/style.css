@@ -18,15 +18,15 @@ header {
 }
 
 /* main part */
-/* first block */
-#first_block {
+/* jumbotron */
+#jumbotron {
     margin: 20px 0;
     /* debug rules */
     height: 320px;
     background-color: rgb(236, 247, 144);
 }
 
-/* second block */
+/* content */
 .container {
     background-color: rgb(0, 68, 255);
 }
