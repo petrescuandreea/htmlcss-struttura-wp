@@ -38,8 +38,8 @@ header {
 
 
 /* title */
-#second_block_title {
-    margin-bottom: 1%;
+#content_title {
+    margin-bottom: 2%;
     /* debug rules */
     height: 50px;
     background-color: rgb(0, 174, 255);
