@@ -64,3 +64,11 @@ header {
     /* debug rules */
     background-color: rgb(0, 174, 255);
 }
+
+/* footer */
+footer {
+    margin-top: 5px;
+    /* debug rules */
+    height: 40px;
+    background-color: blueviolet;
+}
